@@ -22,8 +22,8 @@ Any person copying, installing and/or otherwise using (the “User”) the anima
 
 **1.3.6** In the event that data or results are published which have been obtained inter alia through use of the Model Data, reference shall be made in the publication to IT’IS Foundation (itis.swiss/vip) and to the following papers:
 
-for results produced with the rat models: Kainz W, Nikoloski N, Oesch W, Berdiñas-Torres V, Fröhlich J, Neubauer G, Kuster N: Development of novel whole-body exposure setups for rats providing high efficiency, National Toxicology Program (NTP) compatibility and well-characterized exposure, Physics in Medicine and Biology, 51: 5211-5229, 2006, and to the DOI number(s) of the Model Data used.
-for results produced with the mice and the pig models please refer to the DOI number(s) of the Model Data used.
+- for results produced with the rat models: Kainz W, Nikoloski N, Oesch W, Berdiñas-Torres V, Fröhlich J, Neubauer G, Kuster N: Development of novel whole-body exposure setups for rats providing high efficiency, National Toxicology Program (NTP) compatibility and well-characterized exposure, Physics in Medicine and Biology, 51: 5211-5229, 2006, and to the DOI number(s) of the Model Data used.
+- for results produced with the mice and the pig models please refer to the DOI number(s) of the Model Data used.
 
 **1.3.7** This Agreement does not convey nor shall User attempt to obtain any title to intellectual property rights in the Model Data.
 

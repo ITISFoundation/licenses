@@ -1,10 +1,10 @@
-# Terms and Conditions of User License MIDA Model v1.0
+# Terms and Conditions of User License Virtual Family v2.0
 
-The Licensee and any person who copies, installs and/or otherwise uses the MIDA Model v1.0 licensed (the "User") agrees to be bound by the following terms and conditions (the "Agreement"):
+The Licensee and any person who copies, installs and/or otherwise uses the Virtual Family v2.0 licensed (the "User") agrees to be bound by the following terms and conditions (the "Agreement"):
 
 ## 1. Software
 
-The MIDA Model is distributed as a voxelized model in MAT, RAW, NII, and TXT file formats and as a CAD model in STL file format (the "Model Data") and the MIDA Model Installer (the “Installer”).
+The Virtual Family includes four human models in CAD format (the "Model Data") and the Virtual Family Installer (the “Installer”).
 
 ## 2. License
 
@@ -14,11 +14,11 @@ The MIDA Model is distributed as a voxelized model in MAT, RAW, NII, and TXT fil
 
 **2.3** The following shall apply to the license:
 
-**2.3.1** Any modified version of, or derivative work based on, the Model Data shall bear the notice that it is a modified version of, or derived from the MIDA Model.
+**2.3.1** Any modified version of, or derivative work based on, the Model Data shall bear the notice that it is a modified version of, or derived from the Virtual Family.
 
 **2.3.2** The Model Data or works derived from the Model Data must not be distributed or redistributed in the original form or in any modified or updated form.
 
-**2.3.3** Any images based on the Model Data may be published only if the face is disguised so as to render the individual unrecognizable in any and all communications of any kind, including but not limited to reports, papers, and oral or poster presentations, in which images are published.
+**2.3.3** Any images based on the Model Data may be published only if the faces and genitals are disguised in a non-recognizable manner.
 
 **2.3.4** When the Model Data is loaded, it must neither be read from the computer memory or graphics card memory nor be intercepted on the data bus.
 
@@ -28,12 +28,15 @@ The MIDA Model is distributed as a voxelized model in MAT, RAW, NII, and TXT fil
 
 **2.3.7** It is not permitted to include the Installer into any other software or to start the Installer using other software.
 
-**2.3.8** In the event that data or results that have been obtained inter alia through use of the Model Data are published in communications of any kind, including but not limited to reports, papers, and oral or poster presentations, reference shall be made in the publication to FDA, Center for Devices and Radiological Health, and IT’IS Foundation as the creators of the Model Data and to the following paper: 
-- MIDA: A Multimodal Imaging-based Detailed model of the Anatomy of the human head and Neck. Maria Ida Iacono, Esra Neufeld, Esther Akinnagbe, Johanna Wolf, Ioannis Oikonomidis, Deepika Sharma, Bertram Wilm, Michael Wyss, Klaas Pruessmann, Andras Jakab, Nikos Makris, Ethan Cohen, Niels Kuster, Wolfgang Kainz, Leonardo Angelone, PlosOne, March 2015, doi: 10.13099/ViP-MIDA-V1.0
+**2.3.8** In the event that data or results that have been obtained inter alia through use of the Model Data are published, reference shall be made in the publication to:
+
+- IT’IS Foundation (itis.swiss/vip)
+- the following paper: Gosselin MC, Neufeld E, Moser H, Huber E, Farcito S, Gerber L, Jedensjö M, Hilber I, Di Gennaro F, Lloyd B, Cherubini E, Szczerba D, Kainz W, Kuster, N: Development of a new generation of high-resolution anatomical models for medical device evaluation: the Virtual Population 3.0, Physics in Medicine and Biology, 59(18): 5287-5303, 2014,
+- the DOI number(s) of the Model Data used.
 
 **2.3.9** This Agreement does not convey any title to intellectual property rights in the Model Data and/or Installer, nor shall the Licensee or any User attempt to obtain any such title to intellectual property rights in the Model Data and/or Installer.
 
-**2.3.10** In the event that IT'IS Foundation is informed that the person, on whose personal data the Model Data is based has withdrawn the consent for any further use of the Model Data, IT'IS Foundation will inform the Licensee that any further use whatsoever of the Model Data is strictly forbidden.
+**2.3.10** In the event that IT'IS Foundation is informed that one or more of the persons, on whose personal data the models are based have withdrawn their consent for any further use of their Model Data, IT'IS Foundation will inform the Licensee that any further use whatsoever of the respective Model Data is strictly forbidden.
 
 ## 3. Warranty
 
@@ -49,7 +52,7 @@ The MIDA Model is distributed as a voxelized model in MAT, RAW, NII, and TXT fil
 
 ## 5. Termination
 
-This Agreement terminates with immediate effect if the Licensee and/or any User is in breach of the terms of this Agreement, in particular clause 2 above. Upon termination, Licensee shall return the Installer and Model Data to IT'IS Foundation and confirm in writing that all copies of the Installer and Model Data on any of its installations have been deleted.
+This Agreement terminates with immediate effect if the Licensee and/or any User are in breach of the terms of this Agreement, in particular clause 2 above. Upon termination, Licensee shall return the Installer and Model Data to IT'IS Foundation and confirm in writing that all copies of the Installer and Model Data on any of its installations have been deleted.
 
 ## 6. Miscellaneous
 
@@ -59,10 +62,10 @@ This Agreement terminates with immediate effect if the Licensee and/or any User 
 
 **6.3** Assignment: The Licensee and/or User shall not assign or transfer this Agreement as a whole or in part to any third party without the prior express and written consent of IT'IS Foundation.
 
-**6.4** Waivers: No waiver by IT'IS Foundation of any breach of the Agreement by the Licensee or User shall be considered as a waiver of any subsequent breach of the same or any other provision.
+**6.4** Waivers: No waiver by IT'IS Foundation of any breach of the Agreement by the Licensee or User shall be considered as a waiver of any subsequent breach of the same or any other provision..
 
 ## 7. Governing Law and Jurisdiction
 
 **7.1** This Agreement as well as any dispute arising out of or in connection with this Agreement shall be subject to and interpreted in accordance with the laws of Switzerland.
 
-**7.2** All disputes arising out of or in connection with this Agreement shall, to the exclusion of any other courts, be settled by the Commercial Court of the Canton of Zurich, Switzerland. Should the amount in dispute not reach the amount required by law for jurisdiction of the Commercial Court, the District Court of Zurich, Switzerland, shall have exclusive jurisdiction instead. Notwithstanding and without prejudice to the foregoing, IT’IS Foundation shall also be entitled to bring action against the Licensee or User at any other court having competent jurisdiction. 
+**7.2** All disputes arising out of or in connection with this Agreement shall, to the exclusion of any other courts, be settled by the Commercial Court of the Canton of Zurich, Switzerland. Should the amount in dispute not reach the amount required by law for jurisdiction of the Commercial Court, the District Court of Zurich, Switzerland, shall have exclusive jurisdiction instead. Notwithstanding and without prejudice to the foregoing, IT’IS Foundation shall also be entitled to bring action against the Licensee or User at any other court having competent jurisdiction.
